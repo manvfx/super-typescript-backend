@@ -1,6 +1,6 @@
 import { Application, Router } from "express";
 //modules
-import userRouter from "../modules/users/router";
+import userRouter from "../modules/users/user.router";
 
 import RouteEngine from "./router";
 
